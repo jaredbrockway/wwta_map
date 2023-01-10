@@ -1,0 +1,1260 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Ala Spit",
+                "post_content": "<a href=\"/wp-content/uploads/2013/03/IMG_8729.jpg\"><img src=\"/wp-content/uploads/2013/03/IMG_8729.jpg\" alt=\"\" width=\"600\" /></a>\n\nA popular pink salmon fishing and clamming area.\n\nYou can catch your own dinner, if properly equipped with your pole, bucket and fishing license.\n\nNearby attractions include Skagit Island and Hope Island North, as well as Deception Pass with its turbulent tidal currents. Stroll north along the spit and enjoy more of Puget Sound's birdlife.\n\n<strong>Ala Spit Background</strong>\nThe earliest survey data for the Ala Spit area is dated 1908.\n\nAla Spit eventually became an interest for real estate development. By the 1960s, in line with thinking at the time, Rip Rap revetments were installed in an effort to protect the private property interests.\n\nIn 1995, Island Co. passed a Conservation Futures Funds measure to purchase Ala Spit for a County Park. In 1997, a WWTA site was added.\n\nOver the years, the neck of Ala Spit became narrow and there was concern over losing access.\n\nStarting in the early 2000's, there was increasing focus in Puget Sound on the importance of estuary and near-shore areas, such as Ala Spit, to endangered Chinook salmon, and the forage fish on which they feed.\n\nFrom 2005, to the present, Ala Spit has been the focus of a number of feasibility studies, restoration efforts, and monitoring. Most of this work has been funded by grants from the Washington State Salmon Recovery Funding Board (SRFB), with cooperation between Island Co., Tribal Nations, and various state and federal agencies. The latest was Ala Spit Restoration, Phase 4, in 2016. This funded a partial removal of the bulkhead, and modification to the rock groin. Monitoring is on-going.\n\n<em>Oct. 23,2022\nCompiled for a WWTA Ala Spit work party\nBarbara Brock\nFounding Member, WWTA\nCo-Chair, Island Co. Salmon Recovery\nTechnical &amp; Citizens Advisory Committee</em>\n\n&nbsp;\n\n[gallery columns=\"1\" ids=\"1218\"]",
+                "post_id": 1182,
+                "post_status": "publish",
+                "comment_status": "closed",
+                "post_modified": "2022-11-22 08:52:25",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.585897927578,
+                    48.3921078047921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Anderson Island",
+                "post_content": "Enjoy camping on a spit that shelters a tidal lagoon. At night you may hear the trains running north and south on the mainland. Sunsets here are often remarkable. Don't look west but watch the madrona as they redden as the sun drops to the horizon. Reserved camping for WWTA members &amp; guests.\n\nPlease see our <a href=\"/anderson-calendar/\">reservation page</a>.\n\nPlease note:\n<ol>\n \t<li>8 people max. (as in book)</li>\n \t<li>Camping is on the spit, which is part of the public park, so 3 tents max.</li>\n \t<li>No trees on the spit so hammocks are not possible.</li>\n \t<li>There is other camping on the island but it is at an HOA member invite only - so basically no.</li>\n \t<li>Campers other then WWTA members can contact Anderson Island Park &amp; Recreation District at 253-884-7976 (this information should also be clarified in the Guide Book).</li>\n \t<li>There is no flush toilet at the top of the hill - Guide Book should read Porta-Potty.</li>\n \t<li>Porta-Potty for folks down on the spit is usually at the top of the short trail up to the old cabins (tear down piles of wood) once they can navigate down the access road - usually done in June.&nbsp;</li>\n</ol>\n&nbsp;\n\nOne launch point is Luhr's Landing: <a href=\"https://wdfw.wa.gov/places-to-go/water-access-sites/30684\">https://wdfw.wa.gov/places-to-go/water-access-sites/30684</a>&nbsp;\n\n[gallery columns=\"2\" ids=\"1221\"]\n\n[ngg src=\"galleries\" ids=\"9\" display=\"basic_thumbnail\" thumbnail_crop=\"0\"]<em>Images thanks to Art Nicklaus and others who have submitted images from their trips.</em>",
+                "post_id": 1183,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-16 11:33:50",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73094413624,
+                    47.1456367941361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Belfair State Park",
+                "post_content": "This state park, named for the town of Belfair a few miles to the east, is the first stop for any person doing a complete tour of the Hood Canal from beginning to end. It has long been a favorite gathering place for people with its freshwater creeks, shellfish beds, and cool shaded woodland facing the water. The Skokomish tribe camped and harvested shellfish here. State Parks has been stewarding the 3,720 feet of park shore for public use since 1952. The CMT site is also the hiker/biker site.\n\nAs of 1/1/2019 the Marine Trail campsite at Belfair has been moved into the campground. It is now campsite 148. This is still on the water, but will be closer to facilities. The link below has the park map, including the location site 148. The map will be updated at next printing to show the new CMT site location. http://parks.state.wa.us/DocumentCenter/View/1841/Belfair-State-Park-PDF\n\n[gallery ids=\"1227,1228\"]",
+                "post_id": 1180,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-29 16:27:37",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88062166004,
+                    47.428161309266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Birch Bay State Park",
+                "post_content": "State Park with camping and day use beach.  This is a multi-modal site, with no specific non-motorized camping area or Cascadia Marine Trail agreement.",
+                "post_id": 5552,
+                "post_status": "publish",
+                "comment_status": "closed",
+                "post_modified": "2022-11-22 12:54:44",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.768,
+                    48.90515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Blake Island State Park",
+                "post_content": "Blake Island is a favorite overnight paddle from Seattle. Leave from Alki Point and cross the shipping channel or put in at Vashon or Southworth. The view of the city against the Cascades during the day, or the distant Seattle lights at night, makes this a great stopover. If you plan ahead, you can drop by Tillicum Village for a show and salmon dinner.\n\n[ngg src=\"galleries\" ids=\"3\" display=\"basic_thumbnail\" thumbnail_crop=\"0\"]<img class=\"aligncenter\" src=\"/wp-content/uploads/2017/03/blake_island_state_park.jpg\" width=\"661\" height=\"353\"/>\n\nRead more about Blake Island, thanks to Karen Borell: <a href=\"/wp-content/uploads/2019/10/Blake-Island-State-Park.pdf\">Blake Island State Park</a>\n\n[gallery ids=\"1229,1230\"]",
+                "post_id": 1185,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-29 15:22:05",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.504,
+                    47.544417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Blind Island State Park",
+                "post_content": "Nestled between Orcas and Shaw Islands, this 3-acre island receives heavy use by boaters seeking a glimpse at the various and abundant species of wildlife. The island is at the mouth of Blind Bay. At night the lighted ferries serve as moving candelabra.&nbsp;\n\nThe pictures below were taken at our annual work party, one of our most popular events. Noxious weeds such as ivy and Himalayan Blackberry need to be kept at bay.\n\n&nbsp;\n\n[ngg src=\"galleries\" ids=\"36\" display=\"basic_thumbnail\"][gallery ids=\"1231\"]",
+                "post_id": 1186,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-23 21:57:35",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93702408332,
+                    48.5847114995101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Burrows Island",
+                "post_content": "Find a San Juan island minutes from Anacortes - travel to Burrows Island, made of the same rock as the greater archipelago. Protected by Burrows and Allan Pass, the campsite looks at the populated eastern shore of Anacortes. Boat around to outer Burrows Island to view the lighthouse and look westward over Rosario Strait to the major portion of the San Juans. Area to the north and south are private.\n\n[gallery ids=\"1747\"]\n\nSite Steward: Eric Bell\n\n[ngg src=\"galleries\" ids=\"10\" display=\"basic_thumbnail\"]",
+                "post_id": 1187,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2020-10-06 10:59:09",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68998466501,
+                    48.4815026848714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Camano Island State Park",
+                "post_content": "One of the the classic beaches of the Northwest, Camano Island State Park features glowing sunsets, views of the Olympic Mountains, and plentiful wildlife. Camano Island was the very first Cascadia Marine Trail campsite. Families have been coming to the park for generations. For the kid in you, bring a kite!\n\n[gallery ids=\"1236\"]\n\n[ngg src=\"galleries\" ids=\"30\" display=\"basic_thumbnail\"]\n\n<strong>Additional Resources:</strong> <a href=\"/wp-content/uploads/2017/03/Camano-Island-State-Park_Karen-Borell.pdf\">Site History PDF</a>",
+                "post_id": 1189,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-06-05 15:35:27",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.49205054492,
+                    48.1276488455773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Cypress Head",
+                "post_content": "Cypress Head - overnight camping will be permitted from Memorial Day weekend through Labor Day weekend. Cypress Island features a tombolo, a sand bar connecting one island to another, on its eastern side that creates a bay and a cove on either side. Campsites are perched high on this peninsula with excellent views.\n\n[gallery ids=\"1237\"]\n\n[ngg src=\"galleries\" ids=\"20\" display=\"basic_thumbnail\"]",
+                "post_id": 1191,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-02-10 19:55:55",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6699789484,
+                    48.567934835382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Deception Pass State Park",
+                "post_content": "Over 77,000 feet of shoreline channel the turbulent swift currents of Deception Pass. This is the Sound's most popular destination for experienced paddlers to test their skills. The park also offers 3,000 acres of steep coastal forest. Hike to Deception Pass Bridge and take in a bird's-eye view of the churning waters below.\n\n[gallery ids=\"1252\"]\n[ngg src=\"galleries\" ids=\"19\" display=\"basic_thumbnail\"]",
+                "post_id": 1192,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-24 15:16:52",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65195950793,
+                    48.4170452041558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Fay Bainbridge Park",
+                "post_content": "This park offers one of the best views of Seattle and a panoramic vista of the Cascade Mountains that includes two volcanoes: Baker and Rainier. It also makes a great base camp for exploration of the local waters. The park is very popular and busy during the summer months.\n\nThanks to Karen Borell for researching Fay Bainbridge Park's history: <a href=\"/wp-content/uploads/2013/03/Fay-Bainbridge-Park.pdf\">Fay Bainbridge Park</a>\n\n[gallery ids=\"1255\"]\n\n&nbsp;\n\n[ngg src=\"galleries\" ids=\"34\" display=\"basic_thumbnail\"]",
+                "post_id": 1195,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-29 15:38:35",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.50770523611,
+                    47.7037138958047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Filucy",
+                "post_content": "",
+                "post_id": 12998,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-11-22 11:36:03",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.748,
+                    47.2233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Fort Ebey State Park",
+                "post_content": "This solitary park offers a secluded getaway for those who want to leave the beaten path. Like several of the forts at the entrance to Puget Sound, Ebey has old gun batteries and underground passages to explore. Bring a flashlight for best views. Also, it's a popular Puget Sound surfing spot![gallery ids=\"1256\"]",
+                "post_id": 1108,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-10 13:42:29",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76662087039,
+                    48.2241580185226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Fort Flagler State Park",
+                "post_content": "With views in many directions, Fort Flagler is well known as a place for great photographic opportunities. Walk over a mile on the beach, visit the historic lighthouse and watch the seals play in the blue waters of Admirality Inlet. Mount Baker and Port Townsend are part of the visual attractions of this park.[gallery ids=\"1257\"]",
+                "post_id": 1109,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-10 13:29:28",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72330579877,
+                    48.0953488157208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Fort Ward Park",
+                "post_content": "The 4300-foot long shoreline in this 137 acre park is a good place to watch birds and stretch your legs. Watch the busy boat and ferry traffic in Rich Passage and for divers in the underwater park. This former military installation once protected the shipyard. Now the park protects valuable shoreline and aquatic resources for the public.\n\nOne of our members has written a lovely historical document on the park. Download the <a href=\"/wp-content/uploads/2018/07/Fort-Ward-Park.pdf\">Fort Ward Park</a> and read it at your leisure.\n\n[ngg src=\"galleries\" ids=\"33\" display=\"basic_thumbnail\"]",
+                "post_id": 1110,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-07-01 16:04:15",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52748138622,
+                    47.5824690567339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Fort Worden State Park",
+                "post_content": "Take a walk along the 11,000 feet of beach or hike up the bluffs to take in a bird's-eye view at the entrance to Puget Sound. Be sure to take a flashlight and explore the haunted house-like maze of the underground passageways. Port Townsend is a popular destination and the park hosts many conferences. Former home of the West Coast Sea Kayak Symposium.\n\n[ngg src=\"galleries\" ids=\"16\" display=\"basic_thumbnail\"]",
+                "post_id": 1111,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-10 14:51:26",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.76153155155,
+                    48.136247316487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Fox Island Fishing Pier",
+                "post_content": "The \"Fox Island Concrete Pier\" is a great fishing spot, located on the eastern tip of Fox Island. This unique fishing pier was built by the Department of Fishing and Wildlife and managed by PenMet Parks. The 5.5-acre site with 635 linear feet of shoreline has a 1,200 square foot handicap accessible pier, paved pathways and handrails, parking areas, and restrooms. A concrete fishing pier extends from the Eastern shore of Fox Island.",
+                "post_id": 2948,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2023-01-02 18:45:05",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59056,
+                    47.228217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Griffin Bay",
+                "post_content": "Griffin Bay was the site of Old San Juan Town, a shanty town that grew up on the boundary of American Camp. The saloon was the primary attraction in town. When the county of San Juan was established, the county seat was placed in Friday Harbor. Now Griffin Bay is much quieter, remote from land traffic.\n\n[gallery ids=\"1748\"]",
+                "post_id": 1113,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-24 14:05:03",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.010,
+                    48.4761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Hahobas",
+                "post_content": "<a href=\"/wp-content/uploads/2022/11/hahobas.jpg\"><img src=\"/wp-content/uploads/2022/11/hahobas.jpg\" alt=\"\" width=\"640\" /></a>\n\nLocated on the south of Hood Canal, the Hohobas shoreline preserve was acquired by the Great Peninsula Conservancy after the Boy Scouts of America sold most of Camp Hahobas.\n\nWith over half a mile of shoreline and forested bluffs, Hahobas Shoreline Preserve provides critical habitat for marine life. Its four streams bring fresh water to Hood Canal where surf smelt, a little forage fish eaten by salmon, lay their eggs on the pebble beach. Hood Canal summer chum, one of the only regional populations of threatened salmon to be close to reaching recovery goals, make their way along this shoreline to the ocean. Sea lions and orcas hunt in the depths of the water while otters and seabirds prowl the shoreline.",
+                "post_id": 12994,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-11-22 13:08:55",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.10040,
+                    47.419213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Hope Island State Park",
+                "post_content": "This jewel of an island plays host to an old farm and serene hiking trails. If you are there in the fall, bring an appetite for the apples that abound near the site. Keep your eyes peeled for the semi-tame deer which feed in the orchard clearing and near the caretaker's house. Great view of Mt. Rainier from the steps down to the beach.\n\n[ngg src=\"galleries\" ids=\"6\" display=\"basic_thumbnail\" thumbnail_crop=\"0\"]",
+                "post_id": 1118,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-23 21:44:51",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.931626092,
+                    47.1835523232284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "James Island State Park",
+                "post_content": "This island, shaped like a dog bone, is a great place to observe the San Juans' prolific wildlife. The high rock bluffs provide excellent bird and whale watching. The western cove, facing Decatur Island, has a dock and is more popular than the eastern side.",
+                "post_id": 1119,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-11-21 16:41:18",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77899425067,
+                    48.5092137323906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Jarrell Cove State Park",
+                "post_content": "Explore the side cove to the east and spot a heron rookery. Don't let the tide strand you here: the landing for the Cascadia Marine Trail becomes a mud flat at low tide. The 43-acre marine camping park has 3,500 feet of saltwater shoreline on the northwest end of Harstine Island. Showers and the marina opposite make this a civilized spot.\n\n<a href=\"/wp-content/uploads/2020/08/GOPR1831.jpeg\"><img src=\"/wp-content/uploads/2020/08/GOPR1831.jpeg\" alt=\"\" width=\"640\" height=\"360\"/></a>",
+                "post_id": 1120,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-11-18 16:42:22",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8851860613419,
+                    47.2844770435366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Joemma Beach State Park",
+                "post_content": "Enjoy 3,000 feet of public shoreline or explore several short hiking trails that wind through the park's 22 acres of coastal forest. The campsites sit above the picnic shelters, a short walk up from the park's boat ramp and dock.\n\n[ngg src=\"galleries\" ids=\"27\" display=\"basic_thumbnail\"]",
+                "post_id": 1122,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-25 13:52:31",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80980944428,
+                    47.2250543690872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Jones Island State Park",
+                "post_content": "Without question one of the more popular destinations of the San Juan Islands. Take a walk along the two miles of hiking trails and you may see deer, birds, or mink, or search for the foundation of a pioneer's homesite on the south side of the island. The cove and dock on the north side of the island are a short walk away.\n\n<a href=\"/wp-content/uploads/2020/04/JonesIsland2.jpg\"><img class=\"wp-image-11588 size-full aligncenter\" src=\"/wp-content/uploads/2020/04/JonesIsland2.jpg\" alt=\"\" width=\"851\" height=\"317\"/></a>\n\n[ngg src=\"galleries\" ids=\"5\" display=\"basic_thumbnail\" thumbnail_crop=\"0\"]",
+                "post_id": 1123,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-07-13 06:17:31",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05139961642,
+                    48.6168542134469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Joseph Whidbey State Park",
+                "post_content": "Shorefront wetlands at the south end and by the park's north boundary make this a great spot to view a number of birds including red-winged blackbirds, swallows, cliff swallows, hawks, starlings, mallards, sandpipers and even an occasional snowy owl. The Cascadia Marine Trail site is the only camping allowed in the park.\n\n[ngg src=\"galleries\" ids=\"11\" display=\"basic_thumbnail\"]",
+                "post_id": 1124,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-25 14:06:06",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71398,
+                    48.30935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Kayak Point",
+                "post_content": "An early 20th century resort converted to a county park that now has 21st century yurts to stay in. You're apt to see lots of people fishing and crabbing off the pier, or simply enjoying the 3,300 feet of public shoreline. The County Parks Department purchased&nbsp;and developed the site with Snohomish County's first park bond issue.\n\n[ngg src=\"galleries\" ids=\"40\" display=\"basic_thumbnail\"]&nbsp;\n\n[gallery ids=\"1762\"]",
+                "post_id": 1125,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2023-01-02 19:14:53",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36476862963,
+                    48.1368349640189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Kinney Point",
+                "post_content": "Marrowstone Island is surrounded by fascinating waters. Kilisut Harbor and Scow Bay are protected and there's Ports Hadlock and Townsend nearby. Admiralty Inlet to the east can have lively currents and trafffic. Kinney Point, just inside Marrowstone, on Oak Bay is a true island getaway. Accessible only by boat, the 68 acre property feels secluded.\n\n[ngg src=\"galleries\" ids=\"14\" display=\"basic_thumbnail\"]",
+                "post_id": 1127,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-25 14:21:44",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68996,
+                    48.009133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Kopachuck State Park",
+                "post_content": "The name Kopachuck originates from the Chinook language. \"Kopa\" means \"at\" and \"chuck\" means \"water.\" The park has an underwater park and a wooded forest that includes a lush mix of fir, ferns, and salal.\n\n<img src=\"/wp-content/uploads/2013/03/KOPPIC08.jpg\" width=\"639\" height=\"479\" />\nSign near southern park boundary",
+                "post_id": 1128,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-25 14:34:39",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.686,
+                    47.3107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Laughlin Cove",
+                "post_content": "Public access on the eastern shores of the Hood Canal is very limited. The Trust for Public Land (TPL), recognizing this need, purchased the property to save it from further development. The property was later transferred to Kitsap County Park Department. TPL also purchased the tidelands along its 1,200 foot shoreline and calls the cove by the name of the former owners.\n\n[gallery ids=\"1768\"]",
+                "post_id": 1174,
+                "post_status": "pending",
+                "comment_status": "closed",
+                "post_modified": "2013-11-25 13:47:38",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.01043,
+                    47.531367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Lighthouse Park",
+                "post_content": "From the northenmost site on the Cascadia Marine Trail you can look south to Canada's Cabbage, Tumbo, and Saturna Islands across the Strait of Georgia. Point Roberts is the tip of a peninsula and cut off from the continental United States, requiring four border crossings if you were to visit by land.\n\n[gallery ids=\"1770\"]",
+                "post_id": 1165,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-25 14:41:50",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.080,
+                    48.971667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Lisabeula",
+                "post_content": "Enjoy the sunsets over Colvos Passage from this 5.5 acre park. Lisabuela is a well-located stopover for your transition between South and Mid-Sound. Knowledgeable boaters go from south to north in Colvos Passage, using the predominately northward flow to help their passage. Reserve at: <a href=\"https://www.vashonadventures.com/camping\">https://www.vashonadventures.com/camping</a>",
+                "post_id": 1129,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-29 15:34:09",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52151,
+                    47.406167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Lummi Island",
+                "post_content": "There are many Department of Natural Resources (DNR) beaches along the east side of this steep-banked island. Most are accessible by boat only. At places on the south end of Lummi the bluffs rise 1,500 feet from the water. The Cascadia Marine Trail campsite is located in the most southerly of three coves on DNR's 2,125 foot shoreline, just under two miles from the island's southern tip.\n\n[ngg src=\"galleries\" ids=\"7\" display=\"basic_thumbnail\"]",
+                "post_id": 1130,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-04-25 16:28:00",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.614,
+                    48.65875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Manchester State Park",
+                "post_content": "A former torpedo warehouse, built in 1901, still stands in the park. It was later an officer's club, a barracks and a mess hall, and is now a picnic shelter in the day-use area. The small concrete building east of the torpedo warehouse was originally used as a mining casement, and later for coal storage.\n\n[ngg src=\"galleries\" ids=\"32\" display=\"basic_thumbnail\"]",
+                "post_id": 1131,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-03 09:01:20",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54971,
+                    47.5785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Maple Hollow",
+                "post_content": "<span style=\"color: #000000;\">A recently developed park on the Key Peninsula north of Home. </span>\n\n<span style=\"color: #000000;\">This 58-acre site offers a circle trail with mid-point access to a stretch of beach along the Puget Sound with views of Mount Rainier. The park includes an improved walking trail, picnic area and walking access to saltwater beach on Carr Inlet.</span>",
+                "post_id": 3415,
+                "post_status": "draft",
+                "comment_status": "closed",
+                "post_modified": "2014-07-08 11:19:13",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12,
+                    48.07
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Meadowdale",
+                "post_content": "Once a country club, this park is now a haven for wildlife. Migrating waterfowl visit in the spring and fall; you may see seals, sea lions, bald eagles, and occasional river otters. Meadowdale in one of the few Cascadia Marine Trail sites on the populous east shore of central Puget Sound.\n\nBe sure to read and sign the log, and say hi to the ranger, Doug Dailer. He takes such excellent care of our site, sign and the park.\n\n*Note: Construction is continuing on the&nbsp;<span class=\"il\">Meadowdale</span>&nbsp;Beach Park &amp; Estuary Restoration Project with an anticipated beach opening of Dec/Jan. Here is the project webpage:&nbsp;<a id=\"m_-1799282751760208737LPNoLPOWALinkPreview_3\" href=\"https://snohomishcountywa.gov/2710/Meadowdale-Beach-Park-and-Estuary-Restor\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://snohomishcountywa.gov/2710/Meadowdale-Beach-Park-and-Estuary-Restor&amp;source=gmail&amp;ust=1670266615057000&amp;usg=AOvVaw0UMkc6Z1S9SK6Erqcse2Pg\">https://<wbr>snohomishcountywa.gov/2710/</wbr><wbr><span class=\"il\">Meadowdale</span>-Beach-Park-and-</wbr><wbr>Estuary-Restor</wbr></a>\n\nThere is a fee to stay at Meadowdale; click through for more information: <a id=\"m_-1799282751760208737LPNoLPOWALinkPreview_4\" href=\"https://snohomishcountywa.gov/960/Fees-Prices\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://snohomishcountywa.gov/960/Fees-Prices&amp;source=gmail&amp;ust=1670266615057000&amp;usg=AOvVaw16hvYm8HWxX2hElPCUk9fz\">https://<wbr>snohomishcountywa.gov/960/</wbr><wbr>Fees-Prices</wbr></a>&nbsp;and the&nbsp;<span class=\"il\">Meadowdale</span>&nbsp;Park Page&nbsp;<a id=\"m_-1799282751760208737LPNoLPOWALinkPreview_5\" href=\"https://www.snohomishcountywa.gov/Facilities/Facility/Details/Meadowdale-Beach-Park-56\" target=\"_blank\" rel=\"noopener\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.snohomishcountywa.gov/Facilities/Facility/Details/Meadowdale-Beach-Park-56&amp;source=gmail&amp;ust=1670266615057000&amp;usg=AOvVaw3WpHMKMS03lzZdQgcdflyq\">https://www.<wbr>snohomishcountywa.gov/</wbr><wbr>Facilities/Facility/Details/</wbr><wbr><span class=\"il\">Meadowdale</span>-Beach-Park-56</wbr></a> .&nbsp;\n\n&nbsp;\n\n[ngg src=\"galleries\" ids=\"24\" display=\"basic_thumbnail\"]",
+                "post_id": 1134,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-12-05 09:29:48",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33526,
+                    47.85935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Misery Point",
+                "post_content": "Misery Point Preserve is publicly accessible from both the road and the water. Human-powered watercraft use, hiking on established trails, and wildlife viewing are permitted from dawn to dusk. Dog walking, shellfish harvesting, fishing, motorboats, camping, fires, shooting, fireworks, littering, and brush cutting are prohibited.",
+                "post_id": 12996,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2023-01-02 19:26:19",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82827,
+                    47.654334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Narrows Park",
+                "post_content": "The Narrows Park is a safe haven at the midpoint of the Tacoma Narrows. At night it's great to watch the vehicle lights on the Narrows Bridges from the serenity of the park. The white dome of Mt. Rainier is visible over Tacoma, especially on moonlit evenings.\n\n<img src=\"/wp-content/uploads/2013/03/NARPIC04.jpg\" />",
+                "post_id": 1162,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-23 15:22:39",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56433,
+                    47.266667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Oak Bay County Park",
+                "post_content": "This is a premiere spot for bird watching. The Cascadia Marine Trail site is located on the lower beach section of this two level park. The park can serve as a base camp for circumnavigation of Marrowstone Island via the Port Townsend Canal or exploration of the western shores of Admiralty Inlet.\n\n<img alt=\"Landing NE of boat ramp\" src=\"/wp-content/uploads/2013/03/OBAPIC08-150x150.jpg\" />",
+                "post_id": 1136,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-23 15:34:19",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73058868122,
+                    48.0222162201886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Oak Harbor City Park - Windjammer Park - Still Closed for Now",
+                "post_content": "<img class=\"alignleft size-medium wp-image-12818\" src=\"https://www.wwta.org/wp-content/uploads/2013/03/EvenOakHarborSite-300x286.jpeg\" alt=\"\" width=\"300\" height=\"286\"/>Whidbey Island's largest city, Oak Harbor, hosts a 30-acre sprawling grassy park and beach that lie adjacent to the city's original downtown commercial area.&nbsp;\n\nWhile this site isn't a beautiful destination such as Anderson Island or one of the sites in the San Juan Islands, it does serve as a stopping place to resupply and/or have dinner at a local restaurant. It satisfies the goal of having a site every three hours in case one needs to take a break.\n\nThey have kindly asked us to use a reservation system for Oak Harbor as we do at Anderson and Vashon Islands. This will help them delineate our members from others who may want to walk-in and camp. Our campsites are only available to those who approach by water in human powered craft.\n\nPlease use the following system.&nbsp;\n\n[booking type=3]\n\nThank you Karen Borell for documenting <a href=\"/wp-content/uploads/2020/08/Oak-Harbor-City-Park_Karen-Borell.pdf\">the history of this site</a>. We appreciate the work you have put-in on various sites.&nbsp;",
+                "post_id": 1137,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-08-05 09:31:55",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6564,
+                    48.2836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Obstruction Pass",
+                "post_content": "Located on the largest island in the San Juans, Obstruction Pass State Park has the longest beach on Orcas Island. Washington State Parks is thoughtfully changing camping practices to accommodate those arriving by boat and foot for the benefit of island residents and visitors.\n\n[ngg src=\"galleries\" ids=\"23\" display=\"basic_thumbnail\"]",
+                "post_id": 1138,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-07-22 09:31:25",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8278,
+                    48.601667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Odlin County Park",
+                "post_content": "The sandy bay that fronts most of Odlin County Park is a welcome relief from the rocky cliffs surrounding many of the San Juan Islands.\n\n[ngg src=\"galleries\" ids=\"37\" display=\"basic_thumbnail\"]",
+                "post_id": 1177,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-16 11:14:11",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8907,
+                    48.557817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Pelican Beach",
+                "post_content": "Within a good days distance from Anacortes, Pelican Beach is a great first night out campsite. This site's location is protected from the common southwesterly onshore breezes and has great views of the Cascades and eastern San Juan Islands. 750-foot-high Eagle Cliff dominates the north end of the island and is a great spot to view sunsets. The site is available for overnight camping from Memorial Day weekend through Labor Day weekend.\n\nFind out more on the <a href=\"https://www.dnr.wa.gov/CypressIsland\">Department of Natural Resources Page</a>.\n\n<img src=\"/wp-content/uploads/2017/04/pelican_beach_paddle.jpg\" />",
+                "post_id": 1140,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-23 17:40:58",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7037,
+                    48.602867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Penrose Point State Park",
+                "post_content": "Enjoy a beautiful paddle rain or shine in Mayo Cove at Penrose Point State Park. This 152-acre park boasts both marine facilities and hiking trails, as well as camp sites, showers, and picnic areas.\n\n[ngg src=\"galleries\" ids=\"17\" display=\"basic_thumbnail\"]",
+                "post_id": 1141,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-28 15:28:17",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.74481,
+                    47.259233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Pioneer Park",
+                "post_content": "Across the channel from the Swinomish Reservation, this site in Pioneer Park offers a commanding view of La Conner on the Skagit delta.  North of the park, nearby downtown La Conner offers eateries, watering holes, local art, and a historical museum.  Pioneer Park is between two prime paddling and wildlife destinations: the Padilla Bay National Estuarine Research Reserve to the north and the Skagit Wildlife Area to the south.",
+                "post_id": 1179,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-23 17:50:24",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.501,
+                    48.3862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Point Doughty",
+                "post_content": "Probably the most remote campsite on the Cascadia Marine Trail, Point Doughty is well worth the effort necessary to get there. The small bay to the southwest of the point is too shallow for most power boats, often resulting in a peaceful solitude becoming ever more difficult to find in the San Juans.\n\n<img src=\"/wp-content/uploads/2013/03/PDOPIC02.jpg\" />",
+                "post_id": 1145,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-23 17:55:30",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94943,
+                    48.711367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Point Robinson",
+                "post_content": "<img class=\"\" src=\"/wp-content/uploads/2013/03/ROBPIC04.jpg\" width=\"640\" height=\"480\" />\n\nThe Point Robinson light and foghorn mark the southernmost turn in Puget Sound's shipping lanes. The 12-acre Point Robinson complex, now listed on the Washington Heritage Register, features the Coast Guard lighthouse and keeper's quarters. One house can be rented by the week from the Vashon Park District.\n\nThanks to Karen Borell for her <a href=\"/wp-content/uploads/2013/03/PointRobinsonKarenBorell.pdf\">research on Point Robinson</a>.",
+                "post_id": 1175,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-23 18:02:36",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.37525020503,
+                    47.3882323734592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Port of Brownsville",
+                "post_content": "This site may be the plushest Cascadia Marine Trail site, with access to showers, laundry and a deli just steps away at the Port facility. You can barbecue your selection at the deli or have a salad. The campsites are in a charming park which is frequently the setting for wedding ceremonies.\n\n<img class=\"\" src=\"/wp-content/uploads/2013/03/BROPIC02.jpg\" width=\"639\" height=\"344\"/>",
+                "post_id": 1166,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-29 16:01:31",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61,
+                    47.651667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Portage Beach",
+                "post_content": "Update. 02/22/18 This site is totally overgrown, and is no longer because the navy has closed it down.\n\n&nbsp;\n\nPortage Beach is a quiet, protected campsite nestled among nootka rose and hawthorne trees. Watch the current change in Portage Canal or walk the hiking trails along the shore. A good alternative to Kinney Point or Oak Bay when the winds are blowing from the southeast.",
+                "post_id": 1196,
+                "post_status": "private",
+                "comment_status": "open",
+                "post_modified": "2021-04-24 17:28:06",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72891,
+                    48.0311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Posey Island State Park",
+                "post_content": "<img class=\"alignleft size-medium wp-image-12854\" src=\"https://www.wwta.org/wp-content/uploads/2013/03/IMG_6003Posey-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\"/>This entire one-acre island is a designated Cascadia Marine Trail campsite and is a great site for watching the sunset.\n\nIt is also a popular stop for lunch with tour groups.\n\nReservations are required. Reservations are available up to nine months in advance of travel. It’s popular and reservations go quickly so although two weeks is the minimum, and that may affectively make it impossible if people can’t plan further ahead than that.\n\nDon't go expecting solitude!\n\nRoche Harbor has allowed us to put in a launch-and-land side at the south side of the resort. Overnight parking fees apply.\n\nThe two designated Cascadia Marine Trail campsites are close together and not far from the composting toilet.",
+                "post_id": 1144,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-16 13:40:54",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.16781,
+                    48.61815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Possession Point State Park",
+                "post_content": "Possession Point marks a dividing line for those heading north in Puget Sound. Turn hard west for the Hood Canal, bear west up the side of Whidbey Island for Admiralty Inlet or go east for Saratoga Passage. This State Park property is also a great overnight destination for those on the populated eastern shores of mid-Puget Sound.\n\n[ngg src=\"galleries\" ids=\"18\" display=\"basic_thumbnail\"]",
+                "post_id": 1172,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2023-01-02 19:28:39",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3764,
+                    47.9076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Potlatch State Park",
+                "post_content": "The name of this park honors the native ceremony. The word \"potlatch\" is Chinook jargon meaning \"to give.\" Potlatch ceremonies, given for important milestones, had rigid protocol and could last for entire winters. These events marked changes in position, bestowal of titles, and transfer of authority. Participants, hosts and guests, served as notaries to these ceremonial functions.\n\n<img src=\"/wp-content/uploads/2013/03/POTPIC02.jpg\" />",
+                "post_id": 1171,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-28 14:48:48",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.15611,
+                    47.362533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Roche Harbor",
+                "post_content": "Whale watchers will find Roche Harbor a convenient put-in spot for paddling to Henry Island, where the deep water that surrounds it makes whale sightings more likely.\n\nNearby, the historic Hotel de Haro provides views and reasonably-priced accommodation for those looking for a step up from kayak camping.",
+                "post_id": 13022,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-11-22 14:00:09",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1548,
+                    48.607146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Saddlebag Island State Park",
+                "post_content": "Saddlebag Island is made up of a pair of wooded headlands connected by a narrow low pass, hence the name. Its location near Anacortes and close to Padilla Bay ensure its continued popularity. Saddlebag is a good option when the weather turns against you on the San Juan side of Fidalgo Island.\n\n<img src=\"/wp-content/uploads/2013/03/SADPIC02.jpg\" />",
+                "post_id": 1147,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-31 10:01:34",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55591,
+                    48.5352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Salsbury Point",
+                "post_content": "Charming waterfront near Hood Canal Bridge. The floating bridge will open occasionally to allow submarines to pass or to relieve pressure from high winds on Hood Canal. In either case, keep an eye out for the dark Trident submarines as they slip by, or brace for a rip-roaring storm.\n\n[caption id=\"attachment_2019\" align=\"alignnone\" width=\"150\"]<a href=\"/wp-content/uploads/2013/03/SALPIC02.jpg\"><img class=\"size-thumbnail wp-image-2019\" alt=\"Salsbury from SW beach\" src=\"/wp-content/uploads/2013/03/SALPIC02-150x150.jpg\" width=\"150\" height=\"150\" /></a> Salsbury from SW beach[/caption]",
+                "post_id": 1148,
+                "post_status": "publish",
+                "comment_status": "closed",
+                "post_modified": "2021-06-05 15:37:51",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60876,
+                    47.855967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Saltwater State Park",
+                "post_content": "Saltwater State Park is an 88-acre marine camping park with 1,445 feet of saltwater shoreline on Puget Sound. The park offers beautiful views and wildlife-watching opportunities - walk the upland trails for views of Maury and Vashon Islands, the Olympic Mountains, and spectacular sunsets.",
+                "post_id": 1178,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-31 10:21:42",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.32456,
+                    47.373767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Sample Site",
+                "post_content": "This is a sample site and is not a real WWTA site. Located on the south shore, Sample Site has a long beach at low tide. The parks staff is thoughtfully changing camping practices to accommodate those arriving by boat and bicycle for the benefit of residents and visitors.",
+                "post_id": 1954,
+                "post_status": "private",
+                "comment_status": "closed",
+                "post_modified": "2015-01-06 14:36:25",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.09694222090,
+                    47.8727340349597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "San Juan County Park",
+                "post_content": "This is a very popular spot on San Juan Island's west side, where there is little public access to the shore. People flock here, especially during summer months, hoping to spot the whales that frequent Haro Strait. There's much to see with constant boat traffic from Canada and the Strait of Juan de Fuca. Nightime brings unique views of Vancouver Island.\n\n<img src=\"/wp-content/uploads/2013/03/SJNPIC04.jpg\" />",
+                "post_id": 1176,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-05-31 10:18:03",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.16018988360,
+                    48.5421912329748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Shaw County Park",
+                "post_content": "On summer days, visitors to Shaw County Park may find pleasurable swimming at Indian Cove. Warmer water temperatures are created by exposure to long hours of sunlight and the cove's shallow depths. The scene is completed by the beautiful sandy beach. Once a military reservation, the 60-acre property is now preserved by San Juan County Parks. The park has 3,249 feet of shoreline.\n\n[ngg src=\"galleries\" ids=\"2\" display=\"basic_thumbnail\"]&nbsp;\n\n&nbsp;\n\n&nbsp;",
+                "post_id": 1151,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-06-14 15:20:29",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.934,
+                    48.564517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Skagit Island State Park",
+                "post_content": "Skagit Island is one of many small islands in Skagit Bay. Skagit Bay is fed by the Skagit River whose waters come from the North Cascades and Canada. The 21-acre island has a primitive trail around its perimeter with best views to the south and neighboring Hope Island (North), also a Washington State Park island.\n\n<img src=\"/wp-content/uploads/2016/11/Skagit_1.jpg\" width=\"639\" height=\"428\"/>",
+                "post_id": 1152,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-03-07 21:32:39",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57746,
+                    48.41525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Spencer Spit State Park",
+                "post_content": "Be prepared to share Spencer Spit State Park with the rabbits that run wild here. Originally, the rabbits brought by settlers who had intended to use them for profit, but the enterprise was abandoned (as were the rabbits).\n\n<img src=\"/wp-content/uploads/2013/03/SPNPIC02.jpg\" width=\"639\" height=\"479\"/>",
+                "post_id": 1153,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-12-18 09:23:16",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85778,
+                    48.534867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Stuart Island State Park",
+                "post_content": "A pleasant glide on a flood tide takes you in the long throat of Stuart Island to the western most campground on the Cascadia Marine Trail. Time your arrival and departure to the tides to avoid a long haul to the campsite.\n\n&nbsp;\n\nAllow time for game spotting as you pass Spieden Island, once an African game farm. Landing on Spieden is prohibited. The currents can be rapid along the island, and rough at the northeastern tip.\n\n&nbsp;\n\nRoche Harbor has let us put a launch-and-land site from the south side of the resort. Overnight parking fees apply.\n\n&nbsp;\n\nHike up the stairs from the campsite for a nice view of the harbor or head out to the lighthouse.\n\n&nbsp;\n\n[ngg src=\"galleries\" ids=\"38\" display=\"basic_thumbnail\"]&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;",
+                "post_id": 1157,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-16 13:36:11",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.20453,
+                    48.676267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "post_title": "Triton Cove State Park",
+                "post_content": "This sheltered park was once a privately operated RV park. It is a popular day use boat ramp. During shrimp season the days may start very early in the morning. Busy Highway 101 borders the upland portion so you will want to take advantage of vegetation buffers to reduce traffic noise in your tent.\n\n<img class=\"\" src=\"/wp-content/uploads/2013/03/TRIPIC03.jpg\" width=\"639\" height=\"641\" />",
+                "post_id": 1173,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2021-06-05 15:10:16",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9846,
+                    47.60915
+                ]
+            }
+        },
+        "type": "Feature",
+        "properties": {
+            {
+                "post_title": "Twanoh State Park",
+                "post_content": "The park name derives from that of the Native American Twana tribe, one known better today as the Skokomish. The park has 3,167 feet of shoreline backed by 182-acres of park straddling State Route 106. Twanoh has a warm saltwater beach and numerous Civilian Conservation Corps (CCC) park buildings built during the 1930's.\n\n<img src=\"/wp-content/uploads/2013/03/TWAPIC06.jpg\" width=\"640\" height=\"570\"/>",
+                "post_id": 1181,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-03-23 15:16:47",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9762,
+                    47.37715
+                ]
+            }
+        },
+        "type": "Feature",
+        "properties": {
+            {
+                "post_title": "Walker County Park",
+                "post_content": "This park features large trees that were central to the economy of the area. There is a covered shelter but call ahead to see if it has been reserved. Ideal for family outings with its children's play area, barbeque grills, restrooms, and basketball court. Look for the basketball hoop. Camping for those arriving by boat is by reservation only - call (360) 427-9670 x535.\n\n<img class=\"\" src=\"/wp-content/uploads/2013/03/WKRPIC02.jpg\" width=\"639\" height=\"479\"/>",
+                "post_id": 1164,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-06-29 15:19:57",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0604,
+                    47.202483
+                ]
+            }
+        },
+        "type": "Feature",
+        "properties": {
+            {
+                "post_title": "Wingehaven",
+                "post_content": "With eastern exposure and a beautiful vista of Mt. Rainier, the Wingehaven campsite offers you the opportunity to sleep on the front lawn of what once was a 1930's island mansion. You will discover remnants of the old estate from the moment you approach the deteriorating balustrade sea wall leaving the sounds and lights of today's busy Seattle behind you.\n\n[caption id=\"attachment_2035\" align=\"alignnone\" width=\"150\"]<a href=\"/wp-content/uploads/2013/03/WINPIC02.jpg\"><img class=\"size-thumbnail wp-image-2035\" alt=\"From north at low tide, land at staircase\" src=\"/wp-content/uploads/2013/03/WINPIC02-150x150.jpg\" width=\"150\" height=\"150\" /></a> From north at low tide, land at staircase[/caption]",
+                "post_id": 1160,
+                "post_status": "publish",
+                "comment_status": "closed",
+                "post_modified": "2021-06-05 15:38:27",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.45951,
+                    47.497183
+                ]
+            }
+        },
+        "type": "Feature",
+        "properties": {
+            {
+                "post_title": "Wolfe Property State Park",
+                "post_content": "A secluded campsite at the western end of a tombolo (thin stretch of sand or land connecting two larger landmasses) with a large wetland (mud flat) and a steep headland at Hood Head.\n\n[ngg src=\"galleries\" ids=\"35\" display=\"basic_thumbnail\"]",
+                "post_id": 3417,
+                "post_status": "publish",
+                "comment_status": "open",
+                "post_modified": "2022-11-22 09:01:29",
+                "loc_typ": "site"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63701,
+                    47.889567
+                ]
+            }
+        }
+    ]
+}
+
